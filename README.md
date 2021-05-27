@@ -1,4 +1,7 @@
-# idkozlov
-My personal repository.
+# Hi! :wave:
 
-Hi! :wave:
+ME: {
+':boy:': Ivan Kozlov
+':ru:': Moscow
+
+
