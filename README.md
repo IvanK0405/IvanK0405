@@ -1,13 +1,11 @@
 # Hi there! :wave:
 
-ME: {
-':boy:': Ivan Kozlov
-':ru:': Moscow
-
-![HTML Badge](https://img.shields.io/badge/Know-HTML-yellow)
-
 ```javascript
-function test() {
- console.log("look ma’, no spaces");
+function ME() {
+ console.log(
+Name: Ivan
+From: Moscow
+Intersted: Tech, Invest, Sport);
 }
 ```
+![HTML Badge](https://img.shields.io/badge/Know-HTML-yellow)
