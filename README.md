@@ -1,4 +1,4 @@
-# Hi! :wave:
+# Hi there! :wave:
 
 ME: {
 ':boy:': Ivan Kozlov
