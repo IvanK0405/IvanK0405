@@ -8,11 +8,15 @@ From: Moscow
 Intersted: It, Tech, Invest, Sport);
 }
 ```
+![Ubuntu Badge](https://img.shields.io/badge/Use-Ubuntu-orange)
 ![HTML Badge](https://img.shields.io/badge/Know-HTML-yellow)
 ![SCSS Badge](https://img.shields.io/badge/Know-SCSS-yellow)
 ![JS Badge](https://img.shields.io/badge/Learn-JS-yellow)
 ![Angular Badge](https://img.shields.io/badge/Learn-Angular-red)
+![Webpack Badge](https://img.shields.io/badge/Learn-Webpack-blue)
+![Bootstrap Badge](https://img.shields.io/badge/Learn-Bootstrap-blueviolet)
 ![TS Badge](https://img.shields.io/badge/Learn-TS-blue)
+![React Badge](https://img.shields.io/badge/ToDo-React-green)
 
 
 ## Contact me :mailbox:
