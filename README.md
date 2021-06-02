@@ -10,6 +10,9 @@ Intersted: It, Tech, Invest, Sport);
 ```
 ![HTML Badge](https://img.shields.io/badge/Know-HTML-yellow)
 ![SCSS Badge](https://img.shields.io/badge/Know-SCSS-yellow)
+![JS Badge](https://img.shields.io/badge/Learn-JS-yellow)
+![Angular Badge](https://img.shields.io/badge/Learn-Angular-red)
+![TS Badge](https://img.shields.io/badge/Learn-TS-blue)
 
 
 ## Contact me :mailbox:
