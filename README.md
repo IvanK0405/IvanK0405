@@ -16,7 +16,7 @@ Intersted: It, Tech, Invest, Sport);
 ![Webpack Badge](https://img.shields.io/badge/Learn-Webpack-blue)
 ![Bootstrap Badge](https://img.shields.io/badge/Learn-Bootstrap-blueviolet)
 ![TS Badge](https://img.shields.io/badge/Learn-TS-blue)
-![React Badge](https://img.shields.io/badge/ToDo-React-green)
+![React Badge](https://img.shields.io/badge/Learn-React-green)
 
 
 ## Contact me :mailbox:
