@@ -23,7 +23,7 @@ Intersted: It, Tech, Invest, Sport);
 
 ![GitHub followers](https://img.shields.io/github/followers/IvanK0405?label=Follow%20me&style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-idkozlov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idkozlov/)
-![Telegram Badge](https://img.shields.io/badge/Telegram-%40idkozlov-blue)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40idkozlov-blue)](https://t.me/idkozlov)
 ![E-mail](https://img.shields.io/badge/Email--blue)
 
 
