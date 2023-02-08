@@ -5,7 +5,7 @@ function ME() {
  console.log(
 Name: Ivan
 From: Moscow
-Intersted: It, Tech, Invest, Sport);
+Intersted: IT, Tech, Invest, Sport, Travelling);
 }
 ```
 ![Ubuntu Badge](https://img.shields.io/badge/Use-Ubuntu-orange)
